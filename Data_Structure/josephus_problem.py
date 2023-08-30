@@ -1,4 +1,5 @@
-# 요세푸스 문제 (배열, 링크드 리스트)
+# 배열, 링크드 리스트
+# 요세푸스 문제
 # https://www.acmicpc.net/problem/1158
 
 n, k = map(int, input('n, k 입력').split())     # 공백 기준으로 split
